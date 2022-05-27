@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "LowaLQ_SSAS_IT19118482", "LowaLQ_SSAS_IT19118482\LowaLQ_SSAS_IT19118482.dwproj", "{39C88A83-A7BE-418C-AB4C-2AC56FA8D3C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39C88A83-A7BE-418C-AB4C-2AC56FA8D3C0}.Development|Default.ActiveCfg = Development
+		{39C88A83-A7BE-418C-AB4C-2AC56FA8D3C0}.Development|Default.Build.0 = Development
+		{39C88A83-A7BE-418C-AB4C-2AC56FA8D3C0}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01266754-C8F4-4987-B7A0-1A25DA9269DF}
+	EndGlobalSection
+EndGlobal
